@@ -1,0 +1,4 @@
+IMAGE_SERVER_BASE_RUL=http://192.168.229.154/
+REDIS_BASE_URL=http://localhost:8081/rest
+REDIS_CONTENT_SYNC_URL=/sync/content/
+REDIS_ITEM_CAT_URL=/item/cat/sync
